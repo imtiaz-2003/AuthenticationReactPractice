@@ -72,7 +72,7 @@ const togglePasswordVisibility = () => {
 
             </form>
             <div className="col-12 mb-3 ">
-            <p>Allready Have Account  <Link  to="/">Login here</Link></p>
+            <p>Allready Have Account <Link  to="/">Login here</Link></p>
             </div>
           </div>
 
