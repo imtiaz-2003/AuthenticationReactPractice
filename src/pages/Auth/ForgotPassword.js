@@ -11,7 +11,7 @@ const ForgotPassword = () => {
   const handleSubmit = (e) => {
     e.preventDefault();
     console.log('Forgot Password Email:', email);
-    // Add your form submission logic here
+    // Add your form submission logic 
   };
 
   return (
